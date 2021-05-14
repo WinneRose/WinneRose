@@ -12,7 +12,7 @@ Skills: VUE JS / C# / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=winnerose&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/winnerose)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=winnerose)  
 
