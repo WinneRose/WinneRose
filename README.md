@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm WinneRose
+### Hi there 👋, I'm WinneRose
 
 Skills: VUE JS / C# / JS / HTML / CSS
 
